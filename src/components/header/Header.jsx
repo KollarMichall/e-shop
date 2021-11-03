@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { ReactComponent as Logo} from '../../assets/crown.svg'
+import { ReactComponent as Logo} from '../../assets/logo.svg'
 import { auth } from '../../firebase/firebase.utils'
 import CartDropdown from '../cart-dropdown/CartDropdown'
 import CartIcon from '../cart-icon/CartIcon'
